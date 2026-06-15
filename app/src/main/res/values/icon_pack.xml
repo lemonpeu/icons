@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><!--suppress CheckTagEmptyBody -->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <!-- Make sure to put at least 8 icons -->
+    <string-array name="icons_preview">
+        <item>good_lock</item>
+        <item>telegram</item>
+        <item>textnow</item>
+        <item>yt_music</item>
+        <item>tidal</item>
+        <item>crunchyroll</item>
+        <item>maps_ios</item>
+        <item>cashapp</item>
+        <item>twitch</item>
+        <item>weather_ios</item>
+        <item>amazon_shopping</item>
+        <item>reddit</item>
+        <item>contacts</item>
+        <item>gboard</item>
+        <item>kfc</item>
+    </string-array>
+
+    <!-- These sections below are for your "Previews" section -->
+    <!-- These names should match YOUR actual icon names
+    	 the names used below are just for sampling purposes -->
+
+    <!-- Make sure the filters names are the same as the other arrays -->
+    <string-array name="icon_filters">
+        <item>all</item>
+        <item>messaging</item>
+        <item>social_media</item>
+        <item>streaming_video_and_music</item>
+        <item>one_ui</item>
+        <item>ios</item>
+        <item>google_apps</item>
+        <item>brands</item>
+        <item>banks_and_wallet</item>
+        <item>others</item>
+    </string-array>
+
+    <string-array name="messaging">
+        <item>facebook_messenger</item>
+        <item>whatsapp</item>
+        <item>telegram</item>
+        <item>discord</item>
+        <item>line</item>
+        <item>textnow</item>
+    </string-array>
+
+    <string-array name="google_apps">
+        <item>authenticator</item>
+        <item>calendar1</item>
+        <item>camera1</item>
+        <item>chrome</item>
+        <item>docs</item>
+        <item>drive</item>
+        <item>earth</item>
+        <item>gboard</item>
+        <item>gemini</item>
+        <item>gmail</item>
+        <item>google</item>
+        <item>keep</item>
+        <item>maps</item>
+        <item>meet</item>
+        <item>messages1</item>
+        <item>phone1</item>
+        <item>photos</item>
+        <item>play_store</item>
+        <item>snapseed</item>
+        <item>translator</item>
+        <item>youtube</item>
+        <item>yt_music</item>
+        <item>wallet1</item>
+    </string-array>
+
+    <string-array name="one_ui">
+        <item>browser</item>
+        <item>calculator</item>
+        <item>camera</item>
+        <item>calendar</item>
+        <item>clock</item>
+        <item>contacts</item>
+        <item>files</item>
+        <item>gallery</item>
+        <item>good_lock</item>
+        <item>mail</item>
+        <item>messages</item>
+        <item>music</item>
+        <item>notes</item>
+        <item>phone</item>
+        <item>recorder</item>
+        <item>settings</item>
+        <item>store</item>
+        <item>wallet</item>
+        <item>weather</item>
+    </string-array>
+
+    <string-array name="streaming_video_and_music">
+        <item>apple_music_ios</item>
+        <item>crunchyroll</item>
+        <item>disney_plus</item>
+        <item>hbo_max</item>
+        <item>hulu</item>
+        <item>kick</item>
+        <item>netflix</item>
+        <item>prime_video</item>
+        <item>spotify</item>
+        <item>tidal</item>
+        <item>twitch</item>
+        <item>youtube</item>
+        <item>yt_music</item>
+    </string-array>
+
+
+    <string-array name="ios">
+        <item>apple_music_ios</item>
+        <item>app_store_ios</item>
+        <item>calculator_ios</item>
+        <item>calendar_ios</item>
+        <item>camera_ios</item>
+        <item>clock_ios</item>
+        <item>contacts_ios</item>
+        <item>files_ios</item>
+        <item>imessage_ios</item>
+        <item>mail_ios</item>
+        <item>maps_ios</item>
+        <item>notes_ios</item>
+        <item>phone_ios</item>
+        <item>photos_ios</item>
+        <item>recorder_ios</item>
+        <item>safari_ios</item>
+        <item>settings_ios</item>
+        <item>wallet_ios</item>
+        <item>weather_ios</item>
+    </string-array>
+
+    <string-array name="social_media">
+        <item>facebook</item>
+        <item>instagram</item>
+        <item>life360</item>
+        <item>linkedin</item>
+        <item>pinterest</item>
+        <item>reddit</item>
+        <item>snapchat</item>
+        <item>threads</item>
+        <item>tiktok</item>
+        <item>x_twitter</item>
+    </string-array>
+
+    <string-array name="brands">
+        <item>adidas</item>
+        <item>bershka</item>
+        <item>burger_king</item>
+        <item>dunkin_donuts</item>
+        <item>kfc</item>
+        <item>mcdonalds</item>
+        <item>sephora</item>
+        <item>starbucks</item>
+        <item>walmart</item>
+        <item>zara</item>
+    </string-array>
+
+    <string-array name="banks_and_wallet">
+        <item>bank_of_america</item>
+        <item>binance</item>
+        <item>cashapp</item>
+        <item>chase</item>
+        <item>citi_bank</item>
+        <item>mercado_pago</item>
+        <item>modo</item>
+        <item>payoneer</item>
+        <item>paypal</item>
+        <item>santander</item>
+        <item>wells_fargo</item>
+        <item>wise</item>
+        <item>western_union</item>
+    </string-array>
+
+    <string-array name="others">
+        <item>booking</item>
+        <item>brawl_stars</item>
+        <item>claude</item>
+        <item>edge</item>
+        <item>espn</item>
+        <item>etsy_seller</item>
+        <item>fortnite</item>
+        <item>excel</item>
+        <item>moovit</item>
+        <item>pedidosya</item>
+        <item>picsart</item>
+        <item>onedrive</item>
+        <item>outlook</item>
+        <item>rappi</item>
+        <item>roblox</item>
+        <item>seekee</item>
+        <item>shopee</item>
+        <item>powerpoint</item>
+        <item>word</item>
+        <item>adobe_reader</item>
+        <item>airbnb</item>
+        <item>amazon_shopping</item>
+        <item>brave</item>
+        <item>canva</item>
+        <item>capcut</item>
+        <item>chat_gpt</item>
+        <item>didi</item>
+        <item>duolingo</item>
+        <item>ebay</item>
+        <item>etsy</item>
+        <item>geforcenow</item>
+        <item>lightroom</item>
+        <item>mercado_libre</item>
+        <item>notion</item>
+        <item>photoshop</item>
+        <item>playstation</item>
+        <item>shazam</item>
+        <item>shein</item>
+        <item>temu</item>
+        <item>tinder</item>
+        <item>uber</item>
+        <item>uber_eats</item>
+        <item>xbox</item>
+        <item>zoom</item>
+    </string-array>
+</resources>

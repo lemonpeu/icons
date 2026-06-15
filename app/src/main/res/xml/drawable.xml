@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <version>1</version>
+
+    <category title="Latest" />
+
+    <category title="System" />
+    <item drawable="an_icon" />
+    <item drawable="andy" />
+    <item drawable="another_icon" />
+    <item drawable="icon_one" />
+    <item drawable="icon_with_a_long_name" />
+    <item drawable="icons_everywhere" />
+    <item drawable="second_icon" />
+    <item drawable="this_is_an_icon" />
+
+    <category title="Google Apps" />
+    <item drawable="authenticator" />
+    <item drawable="calendar1" />
+    <item drawable="camera1"/>
+    <item drawable="chrome"/>
+    <item drawable="docs" />
+    <item drawable="drive" />
+    <item drawable="earth" />
+    <item drawable="gboard" />
+    <item drawable="gemini" />
+    <item drawable="gmail"/>
+    <item drawable="google" />
+    <item drawable="keep" />
+    <item drawable="maps"/>
+    <item drawable="meet" />
+    <item drawable="messages1" />
+    <item drawable="phone1" />
+    <item drawable="photos" />
+    <item drawable="play_store" />
+    <item drawable="snapseed" />
+    <item drawable="translator" />
+    <item drawable="youtube"/>
+    <item drawable="yt_music" />
+    <item drawable="wallet1" />
+
+
+    <category title="Others" />
+    <item drawable="adobe_reader" />
+    <item drawable="airbnb" />
+    <item drawable="amazon_shopping" />
+    <item drawable="brave" />
+    <item drawable="brawl_stars" />
+    <item drawable="booking" />
+    <item drawable="canva" />
+    <item drawable="capcut" />
+    <item drawable="chat_gpt" />
+    <item drawable="claude" />
+    <item drawable="didi" />
+    <item drawable="duolingo" />
+    <item drawable="ebay" />
+    <item drawable="espn" />
+    <item drawable="etsy" />
+    <item drawable="etsy_seller" />
+    <item drawable="fortnite" />
+    <item drawable="geforcenow" />
+    <item drawable="lightroom" />
+    <item drawable="mercado_libre" />
+    <item drawable="moovit" />
+    <item drawable="notion" />
+    <item drawable="pedidosya" />
+    <item drawable="photoshop" />
+    <item drawable="picsart" />
+    <item drawable="playstation" />
+    <item drawable="rappi" />
+    <item drawable="roblox" />
+    <item drawable="shazam" />
+    <item drawable="seekee" />
+    <item drawable="shein" />
+    <item drawable="shopee" />
+    <item drawable="temu" />
+    <item drawable="tinder" />
+    <item drawable="uber" />
+    <item drawable="uber_eats" />
+    <item drawable="western_union" />
+    <item drawable="xbox" />
+    <item drawable="zoom" />
+
+
+    <category title="Messaging" />
+    <item drawable="whatsapp"/>
+    <item drawable="discord"/>
+    <item drawable="facebook_messenger"/>
+    <item drawable="line"/>
+    <item drawable="telegram"/>
+    <item drawable="textnow"/>
+
+
+    <category title="One UI Apps" />
+    <item drawable="browser"/>
+    <item drawable="calculator"/>
+    <item drawable="camera"/>
+    <item drawable="calendar"/>
+    <item drawable="clock"/>
+    <item drawable="contacts"/>
+    <item drawable="file"/>
+    <item drawable="gallery"/>
+    <item drawable="good_lock"/>
+    <item drawable="mail"/>
+    <item drawable="messages"/>
+    <item drawable="music"/>
+    <item drawable="notes"/>
+    <item drawable="phone"/>
+    <item drawable="recorder"/>
+    <item drawable="settings"/>
+    <item drawable="store"/>
+    <item drawable="wallet"/>
+    <item drawable="weather"/>
+
+    <category title="iOS Apps" />
+    <item drawable="apple_music_ios"/>
+    <item drawable="app_store_ios"/>
+    <item drawable="calculator_ios"/>
+    <item drawable="calendar_ios"/>
+    <item drawable="camera_ios"/>
+    <item drawable="clock_ios"/>
+    <item drawable="contacts_ios"/>
+    <item drawable="files_ios"/>
+    <item drawable="imessage_ios"/>
+    <item drawable="mail_ios"/>
+    <item drawable="maps_ios"/>
+    <item drawable="notes_ios"/>
+    <item drawable="phone_ios"/>
+    <item drawable="photos_ios"/>
+    <item drawable="recorder_ios"/>
+    <item drawable="safari_ios"/>
+    <item drawable="settings_ios"/>
+    <item drawable="wallet_ios"/>
+    <item drawable="weather_ios"/>
+
+    <category title="Banks and Wallet" />
+    <item drawable="bank_of_america" />
+    <item drawable="binance" />
+    <item drawable="cashapp" />
+    <item drawable="chase" />
+    <item drawable="citi_bank" />
+    <item drawable="mercado_pago" />
+    <item drawable="modo" />
+    <item drawable="payoneer" />
+    <item drawable="paypal" />
+    <item drawable="santander" />
+    <item drawable="wells_fargo" />
+    <item drawable="wise" />
+
+    <category title="Brands" />
+    <item drawable="adidas" />
+    <item drawable="bershka" />
+    <item drawable="burger_king" />
+    <item drawable="dunkin_donuts" />
+    <item drawable="kfc" />
+    <item drawable="mcdonalds" />
+    <item drawable="sephora" />
+    <item drawable="starbucks" />
+    <item drawable="walmart" />
+    <item drawable="zara" />
+
+    <category title="Social Media" />
+    <item drawable="facebook"/>
+    <item drawable="instagram"/>
+    <item drawable="life360"/>
+    <item drawable="linkedin"/>
+    <item drawable="pinterest"/>
+    <item drawable="reddit"/>
+    <item drawable="snapchat"/>
+    <item drawable="threads"/>
+    <item drawable="tiktok"/>
+    <item drawable="x_twitter"/>
+
+    <category title="Microsoft Apps" />
+    <item drawable="edge" />
+    <item drawable="excel" />
+    <item drawable="onedrive" />
+    <item drawable="outlook" />
+    <item drawable="powerpoint" />
+    <item drawable="word" />
+
+    <category title="Streaming Video and Music"/>
+    <item drawable="crunchyroll" />
+    <item drawable="disney_plus" />
+    <item drawable="hbo_max" />
+    <item drawable="hulu" />
+    <item drawable="kick" />
+    <item drawable="netflix" />
+    <item drawable="prime_video" />
+    <item drawable="spotify" />
+    <item drawable="tidal" />
+    <item drawable="twitch" />
+</resources>

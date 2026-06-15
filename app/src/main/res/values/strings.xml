@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Real Glass UI</string>
+
+    <!-- Dummy strings to satisfy resource linking for localized library resources -->
+    <string name="choose_collections_summary">Choose collections</string>
+    <string name="donate_error_unknown">Unknown donation error</string>
+    <string name="download_location_summary">Download location</string>
+    <string name="license_invalid_content">Invalid license</string>
+    <string name="license_invalid_content_extra">Please check your purchase</string>
+    <string name="license_valid_title">License valid</string>
+    <string name="muzei_not_connected_title">Muzei not connected</string>
+    <string name="refresh_only_on_wifi_summary">Refresh only on Wi-Fi</string>
+    <string name="request_upload_success">Request uploaded successfully</string>
+    <string name="send_request">Send request</string>
+    <string name="send_request_x">Send request (%1$d)</string>
+
+    <string name="home">Home</string>
+    <string name="icons">Icons</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="apply">Apply</string>
+    <string name="request">Request</string>
+    <string name="templates">Templates</string>
+    <string name="changelog">Changelog</string>
+    <string name="donate">Donate</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+</resources>
